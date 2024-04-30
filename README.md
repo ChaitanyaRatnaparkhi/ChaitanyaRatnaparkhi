@@ -1,4 +1,4 @@
-# Chaitanya
+# ChaitanyaRatnaparkhi
 
 <h1 align="left">Hi, I'm Chaitanya Ratnparkhi 👋</h1>
  
