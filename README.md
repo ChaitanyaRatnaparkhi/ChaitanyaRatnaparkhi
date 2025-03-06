@@ -4,9 +4,9 @@
  
 <p align="left">Currently pursuing a Master's in Computer Science at Stevens, my focus lies in the integration of Web Development. With research experience in Optimization and Algorithms.</p>
  
-- My projects are available [here]
+- My projects are available https://chaitanyaratnaparkhi.github.io/
  
-- Reach me at  **chaitanyaratnaparkhi4191@gmail.com** <br/>
+- Reach me at  **chaitanyaratnaparkhi366@gmail.com** <br/>
  
 <h3 align="left">Languages and Tools :</h3><br/>
 <p align="left"> 
